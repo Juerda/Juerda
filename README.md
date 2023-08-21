@@ -1,6 +1,6 @@
 ## Olá sou o Jordan Aruuda
 
-Profissional apaixonado por tecnologia e administração, equilibrando criatividade e precisão técnica. Formado em Administração e Engenharia de Software, busco constantemente desafios para crescimento. Experiência em projetos variados, do desenvolvimento à gestão, com foco na aprendizagem contínua e colaboração. Além do trabalho, gosto de explorar programação, leitura e atividades ao ar livre.
+Profissional apaixonado por tecnologia e administração, equilibrando criatividade e precisão técnica. Formado em Administração, Marketing e cursando Engenharia de Software, busco constantemente desafios para crescimento. Experiência em projetos variados, do desenvolvimento à gestão, com foco na aprendizagem contínua e colaboração. Além do trabalho, gosto de explorar programação, leitura e atividades ao ar livre.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Jordan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
